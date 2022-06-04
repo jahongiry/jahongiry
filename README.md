@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jahongiry
+- 👋 Hi, I’m Jahongir Yusupov 
 - 👀 I’m interested in Creating new products that is not only prfitable for me but also all humanity
 - 🌱 I’m currently learning Python, Javascript
 - 💞️ I’m looking to collaborate on Instagram, Telegram(I will meantion usernames later ;)
