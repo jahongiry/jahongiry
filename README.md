@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Jahongir Yusupov 
-- 👀 I’m interested in Creating new products that is not only prfitable for me but also all humanity
-- 🌱 I’m currently learning Python, Javascript
-- 💞️ I’m looking to collaborate on Instagram, Telegram(I will meantion usernames later ;)
-- 📫 How to reach me instagram account:  jahongir.yusupov.94
+- 👀 I’m interested in creating new products and overcoming challanges
+- 🦾 I’m currently expert at JavaScript|React|Redux|Python|Ruby|RoR
+- 📫 How to reach me email: jahongir.yusupov.94@mail.ru
 
 <!---
 jahongiry/jahongiry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
