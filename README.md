@@ -2,6 +2,7 @@
 - 👀 I’m interested in creating new products and overcoming challanges
 - 🦾 I’m currently expert at `JavaScript|React|Redux|Python|Ruby|RoR`
 - 📫 How to reach me (email): jahongir.yusupov.94@mail.ru
+<br/>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
